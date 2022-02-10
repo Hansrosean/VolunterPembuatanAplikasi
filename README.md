@@ -9,3 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Henrik Abdullah Ahnberg, [twitch.tv/admiralbulldog](https://www.twitch.tv/admiralbulldog).
+* El Risitas, [mybio.id/El_Risitas] (https://id.wikipedia.org/wiki/El_Risitas).
